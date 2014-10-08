@@ -16,14 +16,14 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>title</key>
-				<string>欧莎</string>
 				<key>bundle-identifier</key>
 				<string>com.wacosoft.osa</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>title</key>
+				<string>osa</string>
 			</dict>
 		</dict>
 	</array>
